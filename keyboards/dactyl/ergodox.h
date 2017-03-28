@@ -1,0 +1,6 @@
+#ifndef KEYBOARDS_DACTYL_DACTYL_H_
+#define KEYBOARDS_DACTYL_DACTYL_H_
+
+#include "ez.h"
+
+#endif /* KEYBOARDS_DACTYL_DACTYL_H_ */
